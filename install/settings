@@ -1,0 +1,4 @@
+LOG_DIR="$PWD/../install_logs"
+LOG_FILE="$LOG_DIR/deploy.log"
+
+
